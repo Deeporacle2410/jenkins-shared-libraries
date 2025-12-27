@@ -1,3 +1,3 @@
-def call(){
-  echo "HEllo Doston"
+edef call(){
+  echo "Hello Doston, ye first shared library create kiya hu"
 }
